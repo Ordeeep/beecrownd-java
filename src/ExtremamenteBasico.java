@@ -13,6 +13,6 @@ public class ExtremamenteBasico {
         X = A + B;
         // Saida
         System.out.println("X = " + X);
-
+        input.close();
     }
 }
