@@ -3,6 +3,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
+//Lembre-se de alterar a class "AreadoCirculo" para Main
 public class AreadoCirculo {
     public static void main(String[] args) {
         // Setando o idioma americano.
